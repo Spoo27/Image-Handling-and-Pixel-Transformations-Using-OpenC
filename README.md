@@ -47,7 +47,7 @@ o Save the final modified image to your local directory.
 
 ## Program Developed By:
 - **Name:** Spoorthi V
-- **Register Number:** 212224230
+- **Register Number:** 212224230271
 
 ## Ex. No. 01
 
